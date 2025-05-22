@@ -1,1 +1,2 @@
-![carbon](https://github.com/user-attachments/assets/62c48dc9-8dd0-4d1c-8c75-9410b77e30b7)
+Hi, my name is Lewis, and I am learning to code from the Odin Project! 
+https://www.theodinproject.com/
