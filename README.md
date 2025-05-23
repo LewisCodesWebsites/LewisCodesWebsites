@@ -21,7 +21,6 @@ Right now, I'm focused on completing the Foundations course, which covers:
 Feel free to connect or follow my progress!
 
 - GitHub: [Lewis](https://github.com/LewisCodesWebsites)
-- LinkedIn: *[optional]*
 
 ## 📚 Projects
 
