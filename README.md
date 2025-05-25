@@ -1,31 +1,93 @@
-# Hi there 👋
+<!-- Banner (optional - replace with your own image if you like) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Hi+there!+I'm+Lewis;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
-I'm currently learning web development through [The Odin Project](https://www.theodinproject.com/)! 🚀  
-This journey is helping me build a strong foundation in:
+<!-- Profile Stats Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LewisCodesWebsites&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/LewisCodesWebsites?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/LewisCodesWebsites?label=Stars&style=flat-square" />
+</p>
 
-- HTML, CSS, and JavaScript
-- Git and GitHub for version control
-- Front-end and back-end development
-- Full-stack project building
-
-## 🌱 What I'm working on
-
-Right now, I'm focused on completing the Foundations course, which covers:
-- Web development basics
-- HTML/CSS fundamentals
-- JavaScript basics
-- Building and deploying projects
-
-## 📫 How to reach me
-
-Feel free to connect or follow my progress!
-
-- GitHub: [Lewis](https://github.com/LewisCodesWebsites)
-
-## 📚 Projects
-
-As I move through the curriculum, I’ll be uploading my projects here. Stay tuned!
+<!-- Socials (update links as needed) -->
+<p align="center">
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <!-- Add more socials as needed -->
+</p>
 
 ---
 
-> "Learning to write programs stretches your mind and helps you think better." – Bill Gates
+## 🚀 About Me
+
+Hi! I'm Lewis, a passionate web developer who loves building cool websites and learning new technologies.  
+<!-- Add more about yourself here! -->
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <!-- Add more as needed -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<details>
+  <summary>Click to expand!</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LewisCodesWebsites&show_icons=true&theme=radical" alt="Stats"/>
+    <br/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LewisCodesWebsites&theme=github-compact" alt="Activity Graph"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LewisCodesWebsites&theme=radical" alt="GitHub Streak"/>
+  </p>
+</details>
+
+---
+
+## 🌱 Currently Learning
+
+- TypeScript
+- Next.js
+- Tailwind CSS
+
+---
+
+## 📝 Latest Projects
+
+| Project Name         | Description                | Link                                   |
+|----------------------|---------------------------|----------------------------------------|
+| MyCoolWebsite        | Awesome website project    | [Repo](https://github.com/LewisCodesWebsites/MyCoolWebsite) |
+| Portfolio            | My personal portfolio      | [Repo](https://github.com/LewisCodesWebsites/Portfolio)     |
+<!-- Add more projects as needed -->
+
+---
+
+## 📨 Contact Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com">✉️ Email</a>
+  <!-- Add more contact methods if you want -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/LewisCodesWebsites/count.svg" />
+</p>
+
+<!-- Optionally, add a fun GIF below -->
+<!--
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="350"/>
+</p>
+-->
