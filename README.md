@@ -64,10 +64,6 @@ Stay tuned—I'll update this as I go!
 ---
 
 ## 🌱 Currently Learning
-
-- TypeScript
-- Next.js
-- Tailwind CSS
 - Full-Stack Web Development with The Odin Project
 
 ---
