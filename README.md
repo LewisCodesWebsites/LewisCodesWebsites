@@ -14,7 +14,6 @@
 <p align="center">
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <!-- Add more socials as needed -->
 </p>
 
 ---
@@ -22,7 +21,18 @@
 ## 🚀 About Me
 
 Hi! I'm Lewis, a passionate web developer who loves building cool websites and learning new technologies.  
-<!-- Add more about yourself here! -->
+I'm currently learning full-stack web development through [The Odin Project](https://www.theodinproject.com/)! 🌱
+
+---
+
+## 🚧 Odin Project Progress
+
+I'm tracking my journey through the Odin Project. Here's where I'm at:
+
+- Foundations: In Progress ✅  
+- Full Stack JavaScript Path: Coming Soon 🔜
+
+Stay tuned—I'll update this as I go!
 
 ---
 
@@ -34,7 +44,6 @@ Hi! I'm Lewis, a passionate web developer who loves building cool websites and l
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <!-- Add more as needed -->
 </p>
 
 ---
@@ -59,24 +68,14 @@ Hi! I'm Lewis, a passionate web developer who loves building cool websites and l
 - TypeScript
 - Next.js
 - Tailwind CSS
-
----
-
-## 📝 Latest Projects
-
-| Project Name         | Description                | Link                                   |
-|----------------------|---------------------------|----------------------------------------|
-| MyCoolWebsite        | Awesome website project    | [Repo](https://github.com/LewisCodesWebsites/MyCoolWebsite) |
-| Portfolio            | My personal portfolio      | [Repo](https://github.com/LewisCodesWebsites/Portfolio)     |
-<!-- Add more projects as needed -->
+- Full-Stack Web Development with The Odin Project
 
 ---
 
 ## 📨 Contact Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">✉️ Email</a>
-  <!-- Add more contact methods if you want -->
+  <a href="mailto:lewiszhu32@gmail.com">✉️ lewiszhu32@gmail.com</a>
 </p>
 
 ---
@@ -84,10 +83,3 @@ Hi! I'm Lewis, a passionate web developer who loves building cool websites and l
 <p align="center">
   <img src="https://profile-counter.glitch.me/LewisCodesWebsites/count.svg" />
 </p>
-
-<!-- Optionally, add a fun GIF below -->
-<!--
-<p align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="350"/>
-</p>
--->
